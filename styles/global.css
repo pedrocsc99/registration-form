@@ -41,3 +41,6 @@
   --heading4: Bold 16px/120% var(--font-family);
    
 }
+body{
+  overflow: hidden;
+}
